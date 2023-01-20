@@ -15,6 +15,7 @@ next run edit `main.py` and go to line `10` and `12` and put the same `db` name 
 # TODO
 * Some kind  of encryption
 * Better output when viewing accounts
+* Something like master password
 
 # License
 Fell free to modify the code to make it better and add features to it, just please dont copy the code change the name and say its yours :)
