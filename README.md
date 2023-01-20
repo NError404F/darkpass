@@ -13,7 +13,6 @@ next run edit `main.py` and go to line `10` and `12` and put the same `db` name 
 * Remove accounts
 
 # TODO
-* Some kind  of encryption
 * Better output when viewing accounts
 * Something like master password
 * Prevent user from adding the same account multiple times
