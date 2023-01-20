@@ -16,6 +16,7 @@ next run edit `main.py` and go to line `10` and `12` and put the same `db` name 
 * Some kind  of encryption
 * Better output when viewing accounts
 * Something like master password
+* Prevent user from adding the same account multiple times
 
 # License
 Fell free to modify the code to make it better and add features to it, just please dont copy the code change the name and say its yours :)
